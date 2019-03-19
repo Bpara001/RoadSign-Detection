@@ -36,3 +36,4 @@ negativeFolder,'FalseAlarmRate',.085,'NumCascadeStages,6);
 This is due to the 2016 version only accepting structs and 2017 accepts tables.
 
 NOTE: Submission photos are reduced to help save file space. File space is otherwise to large
+Photos used:https://drive.google.com/open?id=1n3O2tFp-qYOg6r7Yf56V4cRE86v98aT3
